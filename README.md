@@ -8,6 +8,7 @@ There is also a the [updates-and-fixes](https://github.com/jonasschmedtmann/comp
 
 🚨 **_Please read the following Frequently Asked Questions (FAQ) carefully before starting the course_** 🚨
 
+
 ## FAQ
 
 ### Q1: How do I download the files?
